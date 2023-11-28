@@ -1,2 +1,2 @@
 # Ordenamientos-burbuja
-burbuja mayor, menor, secuencial
+burbuja mayor, menor, señal
